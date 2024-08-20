@@ -61,14 +61,14 @@
             <nav class="main-menu">
                 <div class="container-fluid">
                     <div class="main-menu__logo">
-                        <a href="index.php">
+                        <a href="index.html">
                             <img src="assets/images/logo-ehancy.png" alt="Ehancy">
                         </a>
                     </div><!-- /.main-menu__logo -->
                     <div class="main-menu__nav">
                         <ul class="main-menu__list">
                             <li class="megamenu">
-                                <a href="index.php">Início</a>
+                                <a href="index.html">Início</a>
                             </li>
                             <li class="">
                                 <a href="sobre.php">Sobre</a>
@@ -91,7 +91,7 @@
                                 <a href="portfoleo.php">Portfolio</a>
                             </li>
                             
-                            <li><a href="contacto.php">Contacto</a></li>
+                            <li><a href="contacto.html">Contacto</a></li>
                         </ul>
                     </div>
                     
@@ -146,8 +146,8 @@
                         <div class="project-two__item">
                             <div class="project-two__item__image"><img src="assets/images/project/project-2-4.jpg" alt="ehancy"></div><!-- /.project-image -->
                             <div class="project-two__item__content">
-                                <p class="project-two__item__content__cats"><a href="assets/website/pavut/index.php" target="_blank">Website</a></p><!-- /.project-category -->
-                                <h3 class="project-two__item__content__title"><a href="assets/website/pavut/index.php" target="_blank">Pavut</a></h3><!-- /.project-title -->
+                                <p class="project-two__item__content__cats"><a href="assets/website/pavut/index.html" target="_blank">Website</a></p><!-- /.project-category -->
+                                <h3 class="project-two__item__content__title"><a href="assets/website/pavut/index.html" target="_blank">Pavut</a></h3><!-- /.project-title -->
                             </div>
                         </div><!-- /.project-item-two -->
                     </div>
@@ -231,12 +231,12 @@
                     </div>
                     <div class="col-lg-6 col-md-6 wow fadeInUp animated" data-wow-delay="200ms">
                         <div class="main-footer__about">
-                            <a href="index.php" class="main-footer__logo">
+                            <a href="index.html" class="main-footer__logo">
                                 <img src="assets/images/logo-ehancy-white.png" alt="ehancy" >
                             </a>
                             <p class="footer-widget__text">Somos uma empresa dedicada à transformação digital, oferecendo soluções inovadoras em tecnologia para empresas em Angola. Com uma abordagem focada em resultados, ajudamos nossos clientes a alcançar novos patamares de eficiência e competitividade.</p>
                             <h5 class="footer-contact">Tel: 940 935 664</h5>
-                            <h5 class="footer-contact">E-mail: geral@ehancy.com</h5>
+                            <h5 class="footer-contact">E-mail: ehancygeral@gmail.com</h5>
                         </div><!-- /.footer-widget -->
                     </div>
                     <div class="col-lg-2 col-md-3 wow fadeInUp animated" data-wow-delay="300ms">
@@ -244,7 +244,7 @@
                             <ul>
                                 <li><a href="sobre.php">Sobre</a></li>
                                 <li><a href="portfoleo.php">Portfólio</a></li>
-                                <li><a href="contacto.php">Contacto</a></li>
+                                <li><a href="contacto.html">Contacto</a></li>
                                 <li><a href="politica-de-privacidade.php">Privacidade</a></li>
                             </ul><!-- /.list-unstyled -->
                         </div><!-- /.footer-widget -->
@@ -266,7 +266,7 @@
                         </div><!-- /.footer-widget -->
                     </div>
                 </div><!-- /.row -->
-                <p class="main-footer__copyright wow fadeInUp animated" data-wow-delay="500ms">© Copyright <span class="dynamic-year"></span><!-- /.dynamic-year --> by <a href="index.php">ehancy</a></p>
+                <p class="main-footer__copyright wow fadeInUp animated" data-wow-delay="500ms">© Copyright <span class="dynamic-year"></span><!-- /.dynamic-year --> by <a href="index.html">ehancy</a></p>
             </div><!-- /.container -->
         </footer><!-- /.main-footer -->
 
@@ -280,7 +280,7 @@
         <div class="mobile-nav__content">
             <span class="mobile-nav__close mobile-nav__toggler"><i class="fa fa-times"></i></span>
             <div class="logo-box">
-                <a href="index.php" aria-label="logo image"><img src="assets/images/logo-ehancy-white.png"  alt="ehancy" /></a>
+                <a href="index.html" aria-label="logo image"><img src="assets/images/logo-ehancy-white.png"  alt="ehancy" /></a>
             </div>
             <!-- /.logo-box -->
             <div class="mobile-nav__container"></div>
